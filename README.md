@@ -14,10 +14,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
+
+  <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
-  Historic note: previous version checked the file path. Previous version checked the front matter formatting.
+  Historic note: previous version checked the homepage content was not empty.
 -->
 
 ## Step 4: Create a blog post
@@ -56,6 +57,8 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Replace `YYYY-MM-DD` with today's date.
 1. Type a quick draft of your blog post. Remember, you can always edit it later.
 1. Commit your changes to your branch.
+
+
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
